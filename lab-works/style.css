@@ -14,6 +14,9 @@ h5,
 h6{
     text-align: center;
 }
+img {
+    max-width: 43vw;
+}
 
 header {
     background: linear-gradient(135deg, #4b79a1, #283e51);
